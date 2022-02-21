@@ -95,3 +95,39 @@ a{
     bottom: 0;
     right: 12px;
 }
+
+.header-container{
+    display: flex;
+    width: 80%; 
+    margin: auto;
+    margin-top: 7rem;
+    gap: 2rem;
+    padding: 2rem;
+    font-size: 1rem; 
+}
+
+.header-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 70%;
+    gap: 20px;
+}
+
+.heading{
+    font-size: 2.2rem; 
+    width: 70%; 
+}
+
+.header-description{
+    width: 90%;
+}
+
+.shop-now-btn{
+    width: 20%;
+    padding: 14px;
+    background-color: var(--primary);
+    color: var(--white);
+    border: 2px solid var(--primary);
+    cursor: pointer;
+}
