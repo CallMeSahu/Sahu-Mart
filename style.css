@@ -4,7 +4,22 @@
 
 
 
-@import url("./styles/wishlist/wishlist.css");
+
+@import url("./styles/wishlist/wishlist.css")
+
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+ 
+@import url("./styles/authentication/login.css");
+
 :root{
     --blue: #0070d2;
     --indigo: #6610f2;
