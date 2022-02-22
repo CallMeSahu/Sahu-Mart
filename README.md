@@ -8,3 +8,8 @@ E-Commerce platform build by Siddhartha Sahu.
 - Cart Management
 - Wishlist Management
 - Authentication
+
+## Screenshot
+
+### Home-Page
+![image](./images/Sahu-Mart-Landing.png)
